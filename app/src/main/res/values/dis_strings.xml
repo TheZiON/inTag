@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">inTag</string>
+    <!--<string name="act_name">Open World</string>-->
+    <!--<string name="act2_name">OpenCards</string>-->
+    <string name="hello_world">Hello world!</string>
+    <string name="flash_on">Flash on</string>
+    <string name="flash_off">Flash off</string>
+    <string name="image_view">imageview</string>
+
+    <string name="error_title_network">Network Error</string>
+    <string name="error_text_network">Could not connect to the server. Please check your network settings and try again.</string>
+
+   	<string name="prompt_distance">Open World Eye</string>
+  	<string name="prompt_light"></string>
+  	<string name="prompt_focus"></string>
+    <!--Hold device 4-7\" from the interactive image-->
+
+
+</resources>
+    <!--Scanning in dim light? Try the flash button-->
+    <!--Tap the screen for quick camera focus on the interactive image-->

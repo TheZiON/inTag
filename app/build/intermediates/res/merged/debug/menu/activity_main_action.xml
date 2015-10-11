@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/tools"
+
+    >
+    <!-- inSearch -->
+    <item android:id="@+id/action_insearch"
+        android:icon="@drawable/in_search"
+        android:title="@string/action_insearch"
+        android:showAsAction="always"
+        android:actionViewClass="android.widget.SearchView"/>
+
+    <!-- inFeed  -->
+    <item android:id="@+id/action_infeed"
+        android:icon="@drawable/in_feed"
+        android:title="@string/action_infeed"
+        android:showAsAction="always" />
+
+    <!-- inNotify -->
+    <item android:id="@+id/action_innotify"
+        android:icon="@drawable/in_notify"
+        android:title="@string/action_innotify"
+        android:showAsAction="always" />
+
+    <!-- inMe -->
+    <item android:id="@+id/action_inme"
+        android:icon="@drawable/in_me"
+        android:title="@string/action_inme"
+        android:showAsAction="always"/>
+
+
+</menu>
+
+<!-- From: file:/home/ritzion/Android-Projects/inTag/app/src/main/res/menu/activity_main_action.xml -->

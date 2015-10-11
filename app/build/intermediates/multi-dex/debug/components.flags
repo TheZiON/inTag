@@ -1,0 +1,54 @@
+-injars /home/ritzion/Android-Projects/inTag/app/build/intermediates/multi-dex/debug/allclasses.jar
+-outjars /home/ritzion/Android-Projects/inTag/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/ritzion/Android/Sdk/build-tools/22.0.1/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontpreverify
+-dontwarn
+-printconfiguration /home/ritzion/Android-Projects/inTag/app/build/intermediates/multi-dex/debug/components.flags
+
+
+-keep class com.digimarc.disdemo.app.AppController {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.digimarc.dms.resolver.ResolverService {
+    <init>();
+}
+
+-keep class com.digimarc.dis.audio.DISAudioService {
+    <init>();
+}
+
+-keep class com.digimarc.disdemo.DetectorActivity {
+    <init>();
+}
+
+-keep class com.digimarc.disdemo.inCard {
+    <init>();
+}
+
+-keep class com.digimarc.disdemo.SearchResultActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.digimarc.disdemo.DetectorActivity" >
+
+    <item
+        android:id="@+id/toggle_flash"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/dis_flash_on"
+        android:title="@string/flash_on"/>
+
+</menu>
+<!-- From: file:/home/ritzion/Android-Projects/inTag/app/src/main/res/menu/dis_main.xml -->

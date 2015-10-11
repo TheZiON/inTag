@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8190861e323934dad89d5e6b830ea66878c11970">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-f2f937d5218e05a14f8193ae1eaa520f59c7ee5d.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-71595f9bedd83fa9ea4a64e470009f0fcb8e6bd9.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-2d4a4a8437e33b617ed90da0167bc570d75fdb19.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-dd8f086ef23881bd9871a0360ed88ecee3ede554.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-bc8e70f3f8b138ff93f308082e52c2ea9e7a6c83.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.trywildcard.pair/wildcard-pair/0.4.6/20d76290b00a67bb42d9b9c02dbb0740feb4e0a2/wildcard-pair-0.4.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="20d76290b00a67bb42d9b9c02dbb0740feb4e0a2">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/wildcard-pair-0.4.6-f9d5da9a236996f38639f0df96c31666cf2f687a.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-86bb2eadf393547eb11fc658fa49d30cd72916a4.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-recyclerview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c187f5fc4f47d1abb8839d124591502ece9b7a37">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-9151c928906428a48f204f689bd9fbb3a134879d.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.0/473e063d6396a1ff6e4b9c7943e604291ce18b07/jackson-databind-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="473e063d6396a1ff6e4b9c7943e604291ce18b07">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/jackson-databind-2.4.0-43362285a6e56eee6c2880929f2f248cadd7bd22.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/libs/dis.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb9099df7037d5caa253005850d2864189af107a">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/dis-ecbb49ba85e596bb4513d810f81a5326d0396c5c.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.17/f417d7f776d1ee5858fc04d9362aa45e9bedd26b/library-1.0.17.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f417d7f776d1ee5858fc04d9362aa45e9bedd26b">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/library-1.0.17-a7e51fa1e3d543c943b479154bd0bf35231aa588.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-22a0257f144bc37a05da63ef1794667fdb55b893.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-4b4c585168abd885c79d5c7994180b2fcb2f230e.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-af97131e719e57cf1208f686bd9f9c600ee06dd5.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-c9b09f070f6511bf8abce21800219ad181db208c.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-337bbdebfb2fa1d09d0a158dc44df79099c7a78c.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/libs/DMS.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e22d8e466156e4ed79be32db2a5e9cde030d478d">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/DMS-992b5f7a77a6abf16c17f73857bd0e371a38958a.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/lib-manipulation-3.1.0-7fc0556b7e7f35751bc2056888c1d9f9c26f1cfd.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-38bf594851c96a95505af9f3863f2ecab293e3ec.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-extra-staggeredgrid/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="50229116d50d9475f4a9fc4d497845aa18e9518f">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-e0946a00252e4deae982db41c4e36bd4639c5fc7.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-0910b228fc5e78a2f4575f52548d817b1ab8a833.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-cf6eedc3748fcf0061e2e84b61a2eab83c776074.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-b0552810f03d0bd0929d7636a989b26d73d49c37.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-e5e817423dcef8da4dc80cee5abef6b33e03fa5d.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-extra-dragdrop/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="51946b4ca8e38b3be550798723faf47dacb3a444">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-f162f1971145daa16a533885c8a6360c54c067b5.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-f9b87edf460475fba85c499620fdce61202bdd8c.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/lib-core-3.1.0-e3999b91ea4919565cbdae45ff0031c7dad9277b.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-14dae1415083e1e0a21f43a4648e7161ff05e342.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-06aee0a080f99fa11cf299ec8efb7b0cceedc300.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-0be7481a3a99db3763c0b84f448941e9a8a9c496.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-629221fdc1dc5a868e89ffdc4e929f51a5646441.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.0/1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d/jackson-core-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/jackson-core-2.4.0-b5b885a7903ccd08b6c461883c99129357d50918.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlcleaner/htmlcleaner/2.5/9e4a0f036b398ec140cff07288d01fa45fc80be5/htmlcleaner-2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e4a0f036b398ec140cff07288d01fa45fc80be5">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/htmlcleaner-2.5-82f551df585e2b99dcb1cd5e48ba1c5dfae3f79e.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/guava-18.0-e1faf73cf3f1042cffe659ed37dcc0309b7a5ed3.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ec1d846000db2b979dac2159584f027195a8174">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-cda9c4954419d4fbc9ac15092b301e27b20d1f6a.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-7c9fcfeea8fe3fd0bc603f62b62dc73b6a60829c.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/library-2.4.0-1f1ab1aa837f427ee727a94a6d0e39da3ee4539c.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.4/4b65e55cc61b34bc634b25f0359d1242e4c519de/jdom2-2.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b65e55cc61b34bc634b25f0359d1242e4c519de">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/jdom2-2.0.4-62f22870df3ce3dbb2ce175b5640faf8dc55c057.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-f76d1242d456e0e684343885650ad3345d57177f.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-b3c2f601af2f94037846f80f4f978bc3bbb0cee4.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-0160c91c8db858aafe916b56c22633ec48da8256.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-768cb6639bd510fac90eed547ec4e9ba87cfa1ab.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.0-d8d54585497af1d20f673bd3f67fa56b23928c0d.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-d2a33bd4adca68986394a8ccc22f3992b997b359.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/volley-5945b5d4ef4c1263e395deb8fc5c383ba790edbe.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-b31a6f7e781e83c8dfd265f4964be0247b820733.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-139d6cd7d0781d45e24df5cd48651b1ea2e3aedf.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-115a38effeabc3a58f6fd8c3c507e77837d610f4.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-f4923986c936e8f3d349939229e71298b66eb71c.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-a444938dc3029b843ef727f7461df3950d7e279f.jar" />
+    </item>
+    <item
+        jar="/home/ritzion/Android-Projects/inTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/ritzion/Android-Projects/inTag/app/build/intermediates/pre-dexed/debug/classes-22d24591da2d7305705617eceaab34ab03d9d145.jar" />
+    </item>
+
+</items>
